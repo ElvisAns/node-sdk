@@ -12,7 +12,6 @@ test/resources/cc_output_auth_file.json
 test/resources/secrets.tar
 .idea
 doc/
-.vscode/
 dist/
 .env
 .eslintcache
@@ -46,3 +45,7 @@ coverage.lcov
 *.tmp
 .pre-commit-config.yaml
 .secrets.baseline
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
